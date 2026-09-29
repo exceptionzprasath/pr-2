@@ -1,0 +1,4 @@
+- [x] Interpret both supplied JUST FLOW animation briefs.
+- [x] Build a cinematic opening and continuous scroll-linked 3D flow.
+- [x] Present the create-to-grow journey in a polished light interface.
+- [x] Verify desktop and mobile rendering and interactions.
